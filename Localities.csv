@@ -1,0 +1,1876 @@
+id,Area,city_id,zone_id
+733,Airport Terminal 1,4,43
+734,Airport Terminal 3,4,27
+735,Airport- Uppal Orchid,4,27
+736,Airport- Centaur Hotel,4,27
+737,Airport- Mehram Nagar,4,27
+738,Airport- Airforce Museum,4,36
+739,Airport- Nangal Dewat,4,27
+740,Airport- Delhi Cantt,4,31
+741,Base Hospital,4,31
+742,Cariappa Vihar,4,31
+743,Kirby Place,4,31
+744,Sadar Bazar Delhi Cantt,4,31
+745,Gopinath Market,4,31
+746,Delhi Cantt Railway Station,4,31
+747,Nangal Rai,4,31
+748,Lajwanti Garden,4,31
+749,Arjun Vihar,4,31
+750,Dwarka Sector 1,4,31
+751,Dwarka Sector 2,4,31
+752,Dwarka Sector 3,4,28
+753,Dwarka Sector 4,4,28
+754,Dwarka Sector 5,4,28
+755,Dwarka Sector 6,4,28
+756,Dwarka Sector 7,4,27
+757,Dwarka Sector 8,4,27
+758,Dwarka Sector 9,4,28
+759,Dwarka Sector 10,4,28
+760,Dwarka Sector 11,4,28
+761,Dwarka Sector 12,4,28
+762,Dwarka Sector 13,4,28
+763,Dwarka Sector 14,4,28
+764,Dwarka Sector 15,4,28
+765,Dwarka Sector 16,4,28
+766,Dwarka Sector 17,4,28
+767,Dwarka Sector 18,4,28
+768,Dwarka Sector 19,4,28
+769,Dwarka Sector 20,4,28
+770,Dwarka Sector 21,4,28
+771,Dwarka Sector 22,4,28
+772,Dwarka Sector 23,4,28
+773,Dwarka Metro Station,4,28
+774,Ambrahi,4,28
+775,Pochanpur,4,28
+776,Madhu Vihar,4,28
+777,Shahbad Mohammadpur,4,28
+778,Goyala Dairy,4,28
+779,Nsit,4,28
+780,Palam Colony,4,27
+781,Palam Village,4,27
+782,Sadh Nagar,4,27
+783,Raj Nagar Ghaziabad,4,71
+784,Dada Dev Mandir,4,27
+785,Nasir Pur,4,27
+786,Mahavir Enclave,4,27
+787,Mangla Puri Palam,4,27
+788,Dabri,4,27
+789,Kailash Puri,4,27
+790,Dasrathpuri,4,27
+791,Vaishali Palam,4,27
+792,Janakpuri A Block,4,32
+793,Janakpuri B Block,4,32
+794,Janakpuri C Block,4,32
+795,Janakpuri D Block,4,32
+796,New Mahavir Nagar,4,32
+797,Shiv Nagar,4,32
+798,"District Centre, Janakpuri",4,32
+799,Janakpuri Authority,4,32
+800,Sagarpur,4,32
+801,Satyam Cinema,4,32
+802,Janakpuri Checkpost,4,32
+803,Janakpuri  East Metro Station,4,32
+804,Mata Channan Devi Hospital,4,32
+805,Vikaspuri A Block,4,32
+806,Vikaspuri D Block,4,32
+807,Vikaspuri H Block,4,32
+808,Vikaspuri K Block,4,32
+809,Vikaspuri F Block,4,32
+810,Pvr Vikas Puri,4,32
+811,Chander Vihar,4,32
+812,Keshopur Depot,4,32
+813,Keshopur Subzi Mandi,4,32
+814,Crpf Camp Vikas Puri,4,32
+815,Vikas Kunj,4,32
+816,Kangra Niketan,4,32
+817,Dhauli Piou,4,32
+818,Uttam Nagar,4,30
+819,Uttam Nagar East Metro Station,4,30
+820,Uttam Nagar West Metro Station,4,30
+821,Nawada,4,30
+822,Om Vihar,4,30
+823,Matiala,4,30
+824,Raja Puri,4,30
+825,Hastsal,4,30
+826,Mansaram Park,4,30
+827,Mohan Garden,4,30
+828,Rama Park,4,30
+829,Sewak Park,4,30
+830,Kakrola Mor,4,30
+831,Dwarka Mor Metro Station,4,30
+832,Bhagwati Garden,4,30
+833,Vipin Garden,4,30
+834,Paschim Vihar,4,37
+835,Paschim Puri,4,37
+836,Meera Bagh,4,37
+837,New Multan Nagar,4,37
+838,Peeragarhi,4,37
+839,Jwala Heri Market,4,37
+840,Bhera Enclave,4,37
+841,Sunder Vihar,4,37
+842,Harkishan Nagar,4,37
+843,Nihal Vihar_Paschim Vihar,4,37
+844,Udyog Nagar,4,37
+845,Paschim Viharnangloi Sayed,4,37
+846,Punjabi Bagh,4,37
+847,Punjabi Bagh West,4,37
+848,Punjabi Bagh East,4,37
+849,Punjabi Bagh Ext,4,37
+850,Arihant Nagar,4,37
+851,Madipur,4,37
+852,Raja Garden,4,38
+853,Rajouri Garden,4,38
+854,Mansarower Garden,4,38
+855,Vishal Enclave,4,38
+856,Vishal Cineplex,4,38
+857,Shivaji College,4,38
+858,Bali Nagar,4,38
+859,Kukreja Hospital,4,38
+860,Esi Basai Darapur,4,38
+861,Moti Nagar,4,38
+862,Karampura,4,38
+863,Kirti Nagar,4,38
+864,Shivaji Enclave,4,38
+865,Ranjit Nagar_Moti Nagar,4,38
+866,Shadipur,4,38
+867,Dlf Industrial Area Kirti Nagar,4,38
+868,Ramesh Nagar,4,38
+869,New Moti Nagar,4,38
+870,Pvr Naraina,4,38
+871,Naraina Indl. Area1,4,38
+872,Naraina Indl. Area,4,38
+873,Krishi Kunj,4,38
+874,Inderpuri,4,38
+875,Naraina Vihar,4,38
+876,Naraina Village,4,38
+877,Budh Nagar,4,38
+878,Tilak Nagar,4,32
+879,Khyala,4,32
+880,Vishnu Garden_Tilak Nagar,4,32
+881,Ganesh Nagar_Tilak Nagar,4,32
+882,Tilak Vihar,4,32
+883,Mukherjee Park,4,32
+884,Minakshi Garden,4,32
+885,Chaukhandi,4,32
+886,Virendra Nagar,4,32
+887,Subhash Nagar,4,32
+888,Raghubir Nagar,4,32
+889,Sham Nagar,4,32
+890,Tagore Garden,4,32
+891,Vishnu Garden_Subhash Nagar,4,32
+892,Tatarpur,4,32
+893,Inderlok,4,32
+894,Zakhira,4,32
+895,Anand Nagar,4,32
+896,Tulsi Nagar,4,32
+897,Najafgarh,4,33
+898,Chhawla Camp,4,33
+899,Jharoda Kalan,4,33
+900,Roshanpura,4,33
+901,Najafgarh Drain,4,33
+902,Jai Vihar,4,33
+903,Shyam Vihar,4,33
+904,Sai Baba Mandir Najafgarh,4,33
+905,Mitraon,4,33
+906,Dhansa,4,33
+907,Nangli Dairy,4,33
+908,Bijwasan,4,58
+909,Samalka,4,58
+910,Kapashera,4,58
+911,Fun N Food,4,58
+912,Nangloi Jat,4,34
+913,Prem Nagar Nangloi,4,34
+914,Ranhaula,4,34
+915,Nilothi,4,34
+916,Nihal Vihar_Nangloi,4,34
+917,Kamruddin Nagar,4,34
+918,Adhyapak Nagar,4,34
+919,Kanjhawla,4,34
+920,Ghewra,4,34
+921,Mundaka,4,34
+922,Tikri Border,4,34
+923,Bahadurgarh,4,34
+924,Mayapuri,4,32
+925,Hari Nagar,4,32
+926,Jail Road,4,32
+927,Deen Dayal Upadhyay Hospital,4,32
+928,Anand Vihar Jail Road,4,32
+929,"Fateh Nagar, New Delhi",4,32
+930,Mayapuri Indl.Area Phase 1,4,32
+931,Mayapuri Indl.Area Phase 2,4,32
+932,Maya Enclave,4,32
+933,Tihar Jail,4,32
+934,Ashok Nagar_Mayapuri,4,32
+935,Azadpur,4,42
+936,Azadpur Subzi Mandi,4,42
+937,Azadpur Indl.Area,4,42
+938,Lal Bagh,4,42
+939,Mahendru Enclave,4,42
+940,Chhatrasal Stadium,4,42
+941,Adarsh Nagar,4,42
+942,Kewal Park,4,42
+943,Gopal Nagar,4,42
+944,Majlis Park,4,42
+945,Mahendra Park,4,42
+946,Panchwati,4,42
+947,Jahangir Puri,4,42
+948,Ram Garh,4,42
+949,Metro Apts,4,42
+950,Jahangirpuri Indl.Area,4,42
+951,Babu Jagjivan Rao Hospital,4,42
+952,Karnal By Pass,4,42
+953,Sanjay Gandhi Transport Nagar,4,42
+954,Bhalswa Dairy,4,42
+955,Rajiv Nagar_Karnal By Pass,4,42
+956,Swami Shradanand Park,4,42
+957,Haiderpur,4,42
+958,Samaipur Badli_Haiderpur,4,42
+959,Prashant Vihar,4,42
+960,Rohini Central Jail,4,42
+961,Shalimar Palace,4,42
+962,Gobind Mohalla,4,42
+963,Bawana,4,41
+964,Delhi College Of Engineering,4,41
+965,Badli Industrial Area,4,41
+966,Shahbad Daulatpur,4,41
+967,Shahbad Dairy,4,41
+968,Bawana Inds Area,4,41
+969,Samaipur Badli_Bawana,4,41
+970,Alipur,4,41
+971,Narela,4,41
+972,Siraspur,4,41
+973,Pooth Kurd Gaon,4,41
+974,Singhu Border,4,41
+975,Lampur Border,4,41
+976,Ashok Vihar Phase 1,4,42
+977,Ashok Vihar Phase 2,4,42
+978,Ashok Vihar Phase 3,4,42
+979,Ashok Vihar Phase 4,4,42
+980,Maujwala Bagh,4,42
+981,Deep Enclave,4,42
+982,Wazirpur Indl.Area,4,42
+983,Wazirpur,4,42
+984,Keshavpuram,4,42
+985,Wazirpur Depot,4,42
+986,Netaji Subhash Palace Metro Station,4,42
+987,Lawrence Road,4,42
+988,Tri Nagar,4,42
+989,Kanhaiya Nagar,4,42
+990,Ganesh Pura,4,42
+991,Neemri Colony,4,42
+992,Shastri Nagar,4,42
+993,Gulabi Bagh,4,42
+994,Daya Basti,4,42
+995,Subhadra Colony,4,42
+996,Andha Mugal,4,42
+997,Pratap Nagar,4,42
+998,Aram Ganj,4,42
+999,Subzi Mandi Railway Station,4,42
+1000,Rohini Sector 1,4,40
+1001,Rohini Sector 2,4,40
+1002,Rohini Sector 3,4,40
+1003,Rohini Sector 4,4,40
+1004,Rohini Sector 5,4,40
+1005,Rohini Sector 6,4,40
+1006,Rohini Sector 7,4,40
+1007,Rohini Sector 8,4,40
+1008,Rohini Sector 9,4,40
+1009,Rohini Sector 10,4,40
+1010,Rohini Sector 11,4,40
+1011,Rohini Sector 12,4,40
+1012,Rohini Sector 13,4,40
+1013,Rohini Sector 14,4,40
+1014,Rohini Sector 15,4,40
+1015,Rohini Sector 16,4,40
+1016,Rohini Sector 17,4,40
+1017,Rohini Sector 18,4,40
+1018,Rohini Sector 19,4,40
+1019,Rohini Sector 20,4,40
+1020,Rohini Sector 21,4,40
+1021,Rohini Sector 22,4,40
+1022,Rohini Sector 23,4,40
+1023,Rohini Sector 24,4,40
+1024,Rohini East Metro Station,4,40
+1025,Rohini West Metro Station,4,40
+1026,Rithala Metrio Station,4,40
+1027,Madhuban Chowk,4,42
+1028,Deepali Chowk,4,42
+1029,Rajastali Apts,4,42
+1030,Madhuban Appartments,4,42
+1031,Vishakha Enclave,4,42
+1032,Pitampura,4,42
+1033,Dakshin Pitampura,4,42
+1034,Uttari Pitampura,4,42
+1035,Income Tax Colony,4,42
+1036,Tv Tower Pitampura,4,42
+1037,Poorvi Pitampura,4,42
+1038,Maurya Enclave,4,42
+1039,Vaishali Pitampura,4,42
+1040,Kohat Enclave,4,42
+1041,Vasudha Enclave,4,42
+1042,Lok Vihar Pitam Pura,4,42
+1043,Harsh Vihar,4,42
+1044,Sandesh Vihar,4,42
+1045,Isbt Kashmiri Gate,4,47
+1046,Tees Hazari Court,4,47
+1047,Mori Gate,4,47
+1048,Boulvard Road,4,47
+1049,Oberoi Meidens Hotel,4,47
+1050,Old Gpo,4,47
+1051,Bara Hindu Rao Hospital,4,47
+1052,Civil Lines,4,47
+1053,Rajpura Road,4,47
+1054,Gujrati Samaj,4,47
+1055,Under Hill Road,4,47
+1056,Ip College,4,47
+1057,Khyber Pass,4,47
+1058,Vidhan Sabha,4,47
+1059,Ludlow Castle,4,47
+1060,St Stephen Hospital,4,47
+1061,Shamnath Marg,4,47
+1062,Kingsway Camp,4,42
+1063,Mall Road,4,42
+1064,Timarpur,4,42
+1065,Banarsi Das Estate,4,42
+1066,Dhaka Colony,4,42
+1067,Model Town,4,42
+1068,Gtb Nagar,4,42
+1069,Naini Lake,4,42
+1070,Outram Lines,4,42
+1071,Haqiqat Nagar,4,42
+1072,Tagore Park,4,42
+1073,Gujrawala Town,4,42
+1074,Mukherjee Nagar,4,42
+1075,Batra Cinema,4,42
+1076,Derawal Nagar,4,42
+1077,Delhi University North Campus,4,42
+1078,Delhi University Metro Station,4,42
+1079,Sarup Nagar,4,42
+1080,Ramjas College,4,42
+1081,Daulatram College,4,42
+1082,Miranda House,4,42
+1083,St. Stephen College,4,42
+1084,Patel Chest,4,42
+1085,Roop Nagar,4,42
+1086,Kamla Nagar,4,42
+1087,Malka Ganj,4,42
+1088,Shakti Nagar,4,42
+1089,Kirorimal College,4,42
+1090,Hindu College,4,42
+1091,Prem Nagar,4,42
+1092,Hans Raj College,4,42
+1093,Gurudwara Nanak Piou,4,42
+1094,Priyadarshini Vihar,4,42
+1095,Dtc Colony,4,42
+1096,Satyawati Nagar,4,42
+1097,Sangam Park,4,42
+1098,Vijay Nagar_Maurice Nagar,4,42
+1099,Maurice Nagar,4,42
+1100,Rana Pratap Bagh,4,42
+1101,Old Gupta Colony_Maurice Nagar,4,42
+1102,Dvb Colony,4,42
+1103,New Gupta Colony_Maurice Nagar,4,42
+1104,Kalyan Vihar,4,42
+1105,Sultan Puri,4,35
+1106,Mangolpuri Inds Area 1,4,35
+1107,Mangolpuri Inds Area 2,4,35
+1108,Police Line Colony,4,35
+1109,Harijan Colony,4,35
+1110,Budh Vihar,4,35
+1111,Kirari Village,4,35
+1112,Rani Bagh,4,42
+1113,Sainik Vihar,4,42
+1114,Saraswati Vihar_Rani Bagh,4,42
+1115,Shakurpur,4,42
+1116,Anand Vihar Rani Bagh,4,42
+1117,Rishi Nagar,4,42
+1118,Shakur Basti,4,42
+1119,Shakurpur  Railway Colony,4,42
+1120,Shakti Vihar,4,42
+1121,Sharda Niketan,4,42
+1122,West Enclave,4,42
+1123,Shubh Enclave,4,42
+1124,Pushpanjali Pitampura,4,42
+1125,Wazirabad,4,42
+1126,Sant Nagar Burari,4,42
+1127,Burari,4,41
+1128,Majnu Ka Tila,4,44
+1129,Nirankari Satsang,4,41
+1130,Budh Vihar Majnu Ka Tila,4,41
+1131,Mayur Vihar Phase 1,4,46
+1132,Mayur Vihar Phase 2,4,46
+1133,Mayur Vihar Phase 3,4,46
+1134,Trilok Puri,4,46
+1135,Kalyanpuri,4,46
+1136,Himmat Puri,4,46
+1137,Vinod Nagar East,4,46
+1138,Khichripur,4,46
+1139,Vasundhra Enclave,4,66
+1140,Kondli,4,66
+1141,Dharamshila Cancer Hospital,4,66
+1142,Chilla Sports Complex,4,66
+1143,Gharoli Village,4,66
+1144,New Ashok Nagar,4,66
+1145,Dallupura,4,66
+1146,Ghazipur,4,66
+1147,Anand Vihar,4,45
+1148,Anand Vihar Isbt,4,45
+1149,Vivek Vihar,4,45
+1150,Yojna Vihar,4,45
+1151,Savita Vihar,4,45
+1152,Shrestha Vihar,4,45
+1153,Jagriti Enclave,4,45
+1154,Vigyan Lok,4,45
+1155,Railway Colony,4,45
+1156,Bahubali Enclave,4,45
+1157,Edm Mall,4,45
+1158,Patparganj,4,45
+1159,Preet Vihar,4,45
+1160,Surajmal Vihar,4,45
+1161,Dayanand Vihar,4,45
+1162,"Jhilmil, Dilshad Garden",4,44
+1163,Karkarduma,4,45
+1164,Vigyan Vihar,4,45
+1165,Hargobind Enclave,4,45
+1166,Nirman Vihar,4,45
+1167,Jagatpuri,4,45
+1168,Madhuban,4,45
+1169,V3S Mall,4,45
+1170,Ip Extension,4,45
+1171,Mother Dairy,4,45
+1172,Shakarpur,4,45
+1173,Laxmi Nagar,4,45
+1174,Vinod Nagar West,4,45
+1175,"Mandaoli, Indraprastha Extension",4,45
+1176,Guru Anagad Nagar,4,45
+1177,Seemapuri Border,4,67
+1178,Seemapuri Depot,4,67
+1179,New Seempuri,4,67
+1180,Dilshad Garden Metro Station,4,44
+1181,Dilshad Garden,4,44
+1182,Dilshad Colony,4,44
+1183,Gtb Hospital,4,44
+1184,Gagan Cinema,4,44
+1185,Nand Nagri,4,44
+1186,Shahdra,4,45
+1187,Shahdra Metro Station,4,45
+1188,Naveen Shahdra,4,45
+1189,Sunder Park,4,45
+1190,Ambedkar Nagar,4,45
+1191,Bihari Colony,4,45
+1192,Jwala Nagar,4,45
+1193,Shyamlal College,4,45
+1194,Kabul Nagar,4,45
+1195,Vishwas Nagar,4,45
+1196,Balbir Nagar,4,45
+1197,Rohtas Nagar,4,45
+1198,Dwarkapuri,4,45
+1199,Gokulpuri,4,45
+1200,Gorakh Park,4,45
+1201,Welcome,4,44
+1202,Seelampur,4,44
+1203,Jaffrabad,4,44
+1204,Mauj Pur,4,44
+1205,Chajjupur,4,44
+1206,Subhash Nagar_Welcome,4,44
+1207,Welcome Metro Station,4,44
+1208,Gautam Puri,4,44
+1209,Brahampuri,4,44
+1210,Geeta Colony,4,45
+1211,Shastri Park,4,45
+1212,"Krishna Nagar, New Delhi",4,45
+1213,Jagat Puri,4,45
+1214,Kailash Nagar,4,45
+1215,Guru Ram Das Nagar,4,45
+1216,Rajgarh,4,45
+1217,Subhash Mohalla,4,45
+1218,Shastri Nagar_Shastri Park,4,45
+1219,Bank Enclave,4,45
+1220,Gandhi Nagar_Shastri Park,4,45
+1221,Jheel Khureji,4,45
+1222,Yamuna Vihar,4,44
+1223,Brijpuri,4,44
+1224,Khajuri Khas,4,44
+1225,Bhajanpura,4,44
+1226,Soniya Vihar,4,44
+1227,Ashok Nagar_Yamuna Vihar,4,44
+1228,Gamri,4,44
+1229,Rajiv Nagar_Yamuna Vihar,4,44
+1230,New Usman Pur,4,44
+1231,Karawal Nagar,4,44
+1232,Mustafabad,4,44
+1233,Ram Vihar,4,44
+1234,Akshardham Mandir,4,46
+1235,Akshardham Metro Station,4,46
+1236,Yamuna Bank Metro Station,4,46
+1237,Pandav Nagar,4,46
+1238,Ganesh Nagar_Akshardham,4,46
+1239,Gurgaon Dlf Phase 2,4,60
+1240,Gurgaon Dlf Phase 3,4,60
+1241,Garden Estate,4,60
+1242,Beverly Park 1,4,60
+1243,Dlf Cyber Greens,4,60
+1244,Belvedre Park,4,60
+1245,"Microsoft, Gurgaon",4,60
+1246,Belvedre Tower,4,60
+1247,Infinity Tower,4,60
+1248,Erricson,4,60
+1249,Nestle India,4,60
+1250,Jacranda Marg,4,60
+1251,Pepsico Office,4,60
+1252,Dlf Square,4,60
+1253,Dlf Corporate Park,4,60
+1254,Neelkanth Hospital,4,60
+1255,Lamba Guest House,4,60
+1256,Nathupur,4,60
+1257,Cyberr City,4,60
+1258,Convergys Dlf 2,4,60
+1259,Heritage City,4,60
+1260,Princeton Estate,4,60
+1261,Gurgaon Dlf Phase 5,4,60
+1262,American Express,4,60
+1263,Gurgaon Sector 43_Gurgaon Dlf Phase 5,4,60
+1264,Gurgaon Sector 42,4,60
+1265,Ibis Hotel,4,60
+1266,Dlf Golf Course,4,60
+1267,Welington Estate,4,60
+1268,Carlton Estate,4,60
+1269,Trinity Towers,4,60
+1270,Gurgaon Sector 27,4,60
+1271,Gurgaon Sector 28,4,60
+1272,Regency Park  2,4,60
+1273,Sushant Lok A,4,60
+1274,Dlf Gymkhana Club,4,60
+1275,Sushant Lok B,4,60
+1276,Chakarpur_Gurgaon Dlf Phase 4,4,60
+1277,Windsor Court,4,60
+1278,Power Grids,4,60
+1279,Galleria,4,60
+1280,Ridgewood Estate,4,60
+1281,Gurgaon Dlf Phase 4,4,60
+1282,Millenium Plaza,4,60
+1283,Park Plaza,4,60
+1284,Radisson Suites,4,60
+1285,Supermart,4,60
+1286,Hamilton Court,4,60
+1287,32Nd Mile Stone,4,61
+1288,South City 1,4,61
+1289,Jalvayu Vihar_South City 1,4,61
+1290,Silo Khera,4,61
+1291,Lemon Tree South City,4,61
+1292,Crown Plaza Ggn,4,61
+1293,South City Country Club,4,61
+1294,Gurgaon Sector 30,4,61
+1295,Uniworld City,4,61
+1296,Gurgaon Sector 41,4,61
+1297,Unitech Business Park,4,61
+1298,Gurgaon Sector 39,4,61
+1299,Gurgaon Sector 40,4,61
+1300,Ranbaxy_Gurgaon Jharsa,4,61
+1301,Mohyal Colony,4,61
+1302,Gurgaon Sector 31,4,61
+1303,Gurgaon Sector 32,4,61
+1304,Gurgaon Sector 38,4,61
+1305,Islampur,4,61
+1306,Mayfield Garden,4,61
+1307,Gurgaon Sector 47,4,61
+1308,Gurgaon Sector 51,4,61
+1309,Gurgaon Sector 48,4,61
+1310,Samaspur,4,61
+1311,Green Woods City,4,61
+1312,Gurgaon Sector 46,4,61
+1313,Gurgaon Sector 45,4,61
+1314,Huda Colony,4,61
+1315,Vista Villas,4,61
+1316,Residency Green,4,61
+1317,Kanhai,4,61
+1318,Gurgaon Sector 44,4,61
+1319,Naya Gaon,4,61
+1320,Apparel House,4,61
+1321,Ardee City,4,61
+1322,Gurgaon Sector 52,4,61
+1323,Bindapur Jarsa,4,61
+1324,Koyal Vihar,4,61
+1325,Ardee Club,4,61
+1326,Sushant Estate,4,61
+1327,Artemis Hospital,4,61
+1328,Paras Downtown,4,61
+1329,Gurgaon Sector 43_Paras Downtown,4,61
+1330,Gurgaon Sector 53,4,61
+1331,Suncity,4,61
+1332,Gurgaon Sector 54,4,61
+1333,Gurgaon Jalvayu Tower,4,61
+1334,Rail Vihar_Gurgaon,4,61
+1335,Gurgaon Sector 56,4,61
+1336,Gurgaon Sector 57,4,61
+1337,Kendriya Vihar_Gurgaon,4,61
+1338,Gurgaon Sector 55,4,61
+1339,Maruti Housing Colony,4,60
+1340,Chakarpur_Gurgaon Dlf Phase 1,4,60
+1341,Saraswati Vihar_Gurgaon,4,60
+1342,Beverly Park 2,4,60
+1343,Ggn Dlf Phase 1,4,60
+1344,Qutub Plaza,4,60
+1345,Silver Oak Apartments,4,60
+1346,Dlf Mega Mall,4,60
+1347,Vatika Triangle,4,60
+1348,Fortune,4,60
+1349,Global Business Park,4,60
+1350,Bristol Hotel,4,60
+1351,Sikandarpur,4,60
+1352,Gymkhana Club,4,60
+1353,Sahara Mall,4,60
+1354,Dt Mega Mall,4,60
+1355,Lifestyle Mall,4,60
+1356,City Centre,4,60
+1357,Jmd Mall,4,60
+1358,Dlf Grand Mall,4,60
+1359,"MGF Metropolitan, Mehrauli Gurgaon Marg",4,60
+1360,Sushant Lok C Block,4,60
+1361,Sushant Lok D Block,4,60
+1362,Richmond Park,4,60
+1363,Maple Heights,4,60
+1364,Regency Park,4,60
+1365,God Souk Mall,4,60
+1366,Iffco Chowk,4,60
+1367,Iffco Colony,4,60
+1368,Gurgaon Sector 17,4,60
+1369,"management development institute(MDI), gurgaon",4,59
+1370,Signature Tower,4,60
+1371,Sukhrali Chowk,4,60
+1372,Ambience Mall,4,60
+1373,Ambience Island,4,60
+1374,National Media Centre,4,60
+1375,Shankar Chowk,4,60
+1376,Sector 25A,4,60
+1377,Leela Kempeinski Hotel,4,60
+1378,Udyog Vihar Phase 1,4,59
+1379,Dundahera,4,59
+1380,Surya Vihar,4,59
+1381,Ggn Sector 20,4,59
+1382,Ggn Sector 21,4,59
+1383,Delphi,4,59
+1384,Udyog Vihar Phase 2,4,59
+1385,Udyog Vihar Phase 3,4,59
+1386,Ggn Sector 19,4,59
+1387,Trident Hilton Hotel,4,59
+1388,Lemon Tree Hotel,4,59
+1389,Maruti Udyog,4,59
+1390,Ggn Sector 18,4,59
+1391,Udyog Vihar Phase 4,4,59
+1392,Udyog Vihar Phase 5,4,59
+1393,Serco,4,59
+1394,Hcl,4,59
+1395,Daksh,4,59
+1396,Sbi Academy,4,59
+1397,Ge Capital,4,59
+1398,Rajiv Gandhi Chowk_Gurgaon,4,61
+1399,Rajiv Nagar,4,61
+1400,Gurgaon Sector 33,4,61
+1401,Wireless Colony,4,61
+1402,Gurgaon Civil Court,4,61
+1403,Shivaji Nagar,4,61
+1404,Hans Enclave,4,61
+1405,Tau Devilal Cricket Stadium,4,61
+1406,Gurgaon Sector 34,4,61
+1407,Hero Honda Chowk,4,61
+1408,Ranbaxy_Gurgaon Sector 34,4,61
+1409,Naharpur,4,61
+1410,Informational Technology Park,4,61
+1411,Amex,4,61
+1412,Gurgaon Sector 10,4,62
+1413,Khandsa,4,62
+1414,Gurgaon Sector 37 Part 1,4,62
+1415,Gurgaon Sector 37 Part 2,4,62
+1416,Udyog Vihar Phase 6,4,62
+1417,Model Town_Gurgaon,4,62
+1418,Gurgaon Sector 8,4,62
+1419,Kadipur,4,62
+1420,Ioc Colony,4,62
+1421,Gurgaon Sector 10 A,4,62
+1422,"Krishna Nagar, Sector 10, Gurgaon",4,62
+1423,Gurgaon Sector 4,4,62
+1424,Gurgaon Sector 4 -Gurgaon Sector 7,4,62
+1425,Gurgaon Sector 9,4,62
+1426,Gurgaon Sector 9A,4,62
+1427,Feroz Gandhi Colony_Gurgaon,4,62
+1428,Devilal Colony,4,62
+1429,Acharya Puri,4,62
+1430,Jyoti Park,4,62
+1431,Gurgaon Sector 5,4,62
+1432,Gurgaon Sector 6,4,62
+1433,Gurgaon Sector 3,4,62
+1434,Gurgaon Masani,4,62
+1435,Dayanand Colony_Gurgaon Sector 4,4,62
+1436,Gurgaon Sector 14,4,62
+1437,Gurgaon Sector 12,4,62
+1438,Gurgaon Sector 13,4,62
+1439,Gurgaon Sector 14Subhash Nagar Ggn,4,62
+1440,Gurgaon Sector 15 I,4,62
+1441,Gurgaon Sector 15 II,4,62
+1442,Shakti Apts,4,62
+1443,Rail Vihar S-15,4,62
+1444,Jacombpura,4,62
+1445,Pacific Square,4,62
+1446,Palam Vihar,4,59
+1447,New Palam Vihar,4,59
+1448,Vishnu Garden Ggn,4,59
+1449,Surat Nagar,4,59
+1450,Palam Vyapar Kendra,4,59
+1451,Ashok Vihar Phase 1 Ggn,4,59
+1452,Ashok Vihar Phase 2 Ggn,4,59
+1453,South City-2,4,61
+1454,Omax Mall,4,61
+1455,Uniworld Garden,4,61
+1456,Eldeco Mansion,4,61
+1457,Gurgaon Sector 50,4,61
+1458,Nirwana Country Club,4,61
+1459,Park View City1,4,61
+1460,Vipul Green,4,61
+1461,Park View City 2,4,61
+1462,Universal Trade Tower,4,61
+1463,Omaxe Nile,4,61
+1464,Gurgaon Sector 21,4,59
+1465,Gurgaon Sector 22,4,59
+1466,Gurgaon Sector 23,4,59
+1467,Gurgaon Railway Station,4,62
+1468,Gurgaon Bus Stand,4,62
+1469,"Mianwali Nagar, Paschim Vihar",4,37
+1470,New Colony,4,62
+1471,Shivpuri,4,62
+1472,Gwal Pahari,4,55
+1473,Valley View Estate,4,55
+1474,Gurgaon Faridabad Road,4,55
+1475,Teri Retreat,4,55
+1476,Manesar,4,62
+1477,Imt Manesar,4,62
+1478,Apno Ghar,4,62
+1479,Haldi Ram,4,62
+1480,Gurgaon Sector 35,4,62
+1481,Heritage Village,4,62
+1482,Connaught Place,4,47
+1483,Rajiv Chowk,4,47
+1484,Inner Circle,4,47
+1485,Middle Circle,4,47
+1486,Outer Circle,4,47
+1487,Connaught Circus,4,47
+1488,Palika Bazar,4,47
+1489,Pvr Plaza,4,47
+1490,Odeon Cinema,4,47
+1491,Plaza Hotel,4,47
+1492,Marina Hotel,4,47
+1493,Intercontinental The  Grand,4,47
+1494,Scindia House,4,47
+1495,Nirula Hotel,4,47
+1496,Regal Building,4,47
+1497,Jukaso Inn,4,47
+1498,Connaught Hotel,4,47
+1499,Shivaji Stadium,4,47
+1500,Barakhamaba Metro Station,4,48
+1501,Barakhamba Road,4,48
+1502,Statesman House,4,48
+1503,Gopal Das Bhawan,4,48
+1504,The Lalit Hotel,4,47
+1505,Vidyut Bhawan_Barakhamaba Metro Station,4,48
+1506,Hailey Road,4,48
+1507,Delhi Fire Service Head Quarter,4,48
+1508,Hindustan Times Office,4,48
+1509,Kg Marg,4,48
+1510,Hans Plaza,4,48
+1511,Jantar Mantar,4,48
+1512,Hanuman Mandir,4,48
+1513,Janpath Bhavan,4,48
+1514,Rivoli,4,48
+1515,Janpath,4,48
+1516,Mandi House,4,48
+1517,Himachal Bhawan,4,48
+1518,Bhawalpur House,4,48
+1519,Punjab Bhawan,4,48
+1520,Nabha House,4,48
+1521,Sarojini House,4,48
+1522,Ficci Building,4,48
+1523,Doordarshan Bhawan,4,48
+1524,Nilgiri Apts,4,48
+1525,Banga Bhawan,4,48
+1526,Maharastra Sadan,4,48
+1527,Haryana Bhawan,4,48
+1528,Copernicus Marg,4,48
+1529,India Gate,4,48
+1530,August Kranti Maidan,4,48
+1531,Rajpath,4,48
+1532,Patiala House,4,48
+1533,Dholpur House,4,48
+1534,National Stadium,4,48
+1535,Hyderabad House,4,48
+1536,Upsc,4,48
+1537,Pandara Park,4,48
+1538,Pandara Road,4,48
+1539,Jaipur House,4,48
+1540,High Court,4,48
+1541,Children'S Park,4,48
+1542,Bikaner House,4,48
+1543,Pragati Maidan,4,48
+1544,Pragati Maidan Metro Station,4,48
+1545,Supreme Court,4,48
+1546,National Sports Club Of India,4,48
+1547,Who,4,48
+1548,Appu Ghar,4,48
+1549,Sunder Nagar,4,48
+1550,Bapa Nagar,4,48
+1551,Kaka Nagar,4,48
+1552,Zoo,4,48
+1553,Golf Course,4,48
+1554,Golf Links,4,48
+1555,Ambasdor Hotel_Sunder Nagar,4,48
+1556,Jukaso Inn Sunder Nagar,4,48
+1557,Dr Zakir Hussain Marg,4,48
+1558,Oberoi Hotel,4,48
+1559,Hazrat Nizamuddin Railway Station,4,51
+1560,Humayun Tomb,4,51
+1561,Nizamuddin East,4,51
+1562,Sarai Kale Khan,4,51
+1563,Nizamuddin West,4,51
+1564,Hazrat Nizammudin Aulia Dargah,4,51
+1565,Windsor Place,4,48
+1566,Rail Bhawan_Windsor Place,4,48
+1567,Max Muller,4,48
+1568,Palika Sadan,4,48
+1569,Le Meridien Hotel,4,48
+1570,Khursidlal Bhawan,4,48
+1571,Curzon Road,4,48
+1572,Indra Gandhi National Centre For Arts,4,48
+1573,Jawahar Bhawan,4,48
+1574,Thapar House,4,48
+1575,Kerala House,4,48
+1576,Janpath Hotel,4,48
+1577,Imperial Hotel,4,48
+1578,Shastri Bhawan,4,48
+1579,Shangri La Hotel,4,48
+1580,Tolstoy Marg,4,48
+1581,Rajiv Gandhi Foundation,4,48
+1582,Patel Chowk Metro Station,4,48
+1583,Patel Bhawan,4,48
+1584,Red Cross Society,4,48
+1585,Yojna Bhawan,4,48
+1586,Prasar Bharti_Patel Chowk,4,48
+1587,Dak Bhawan,4,48
+1588,Jeevan Vihar,4,48
+1589,Sanchar Bhawan,4,48
+1590,Chelmsford Club,4,48
+1591,Election Commission Of India,4,48
+1592,Press Trust Of India,4,48
+1593,Ywca,4,48
+1594,Central Secretriat,4,48
+1595,Rail Bhawan_Central Secretriat,4,48
+1596,Nirman Bhawan,4,48
+1597,Vayu Bhawan,4,48
+1598,Raisina Road,4,48
+1599,Krishi Bhawan,4,48
+1600,Sansad Bhawan,4,48
+1601,North Block,4,48
+1602,South Block,4,48
+1603,Gurudwara Rakabganj,4,48
+1604,Kendriya Bus Terminal,4,48
+1605,Raisina Hill,4,48
+1606,Ministry Of External Affairs,4,48
+1607,Rashtrapati Bhawan_Sansad Bhawan,4,48
+1608,Gole Dakhana Gpo,4,48
+1609,Pandit Pant Marg,4,48
+1610,Gole Market,4,48
+1611,Havelock Square,4,48
+1612,Rml Hospital,4,48
+1613,Bangla Sahib Gurudwara,4,48
+1614,Ymca,4,48
+1615,Jai Singh Road,4,48
+1616,Ip Estate,4,47
+1617,Vikas Marg,4,47
+1618,Vikas Bhawan,4,47
+1619,University Grant Commision,4,47
+1620,Indira Gandhi Sports Complex,4,47
+1621,Rose Garden_Ip Estate,4,47
+1622,Indra Gandhi Indoor Stadium,4,47
+1623,Ashoka Pillar,4,47
+1624,Manak Bhawan,4,47
+1625,Tilak Bridge,4,47
+1626,Azad Bhawan,4,47
+1627,Bahdur Shah Zafar Marg,4,47
+1628,Ito,4,47
+1629,Feroz Shah Kotla Cricket Ground,4,47
+1630,Feroz Shah Kotla,4,47
+1631,Pant Nagar,4,47
+1632,Prasar Bharti_Ip Estate,4,47
+1633,Maulana Azad Medical College,4,47
+1634,Rose Avenue,4,47
+1635,Bal Bhawan,4,47
+1636,National Children Museum,4,47
+1637,Maat Sundari Women College,4,47
+1638,Deen Dayal Upadhyay Marg,4,47
+1639,Kotla Marg,4,47
+1640,Darya Ganj,4,47
+1641,Broadway Hotel,4,47
+1642,Stock Exchange,4,47
+1643,Asaf Ali Road,4,47
+1644,Golcha Cinema,4,47
+1645,Lok Narain Jai Prakash Hospital,4,47
+1646,Gb Pant Hospital,4,47
+1647,Irwin Hospital,4,47
+1648,Meena Bazar,4,47
+1649,Delhi Gate,4,47
+1650,Ramlila Maidan,4,47
+1651,Minto Road,4,47
+1652,Turk Man Gate,4,47
+1653,Raj Ghat,4,47
+1654,Vijay Ghat,4,47
+1655,Shakti Sthal,4,47
+1656,Vir Bhumi,4,47
+1657,Shanti Van,4,47
+1658,Red Fort,4,47
+1659,Chandni Chowk,4,47
+1660,Old Delhi Railway Station,4,47
+1661,Jama Masjid,4,47
+1662,Sheesh Ganj Gurudwar,4,47
+1663,"Lajpat rai market, chandini chowk",4,47
+1664,Nai Sarak,4,47
+1665,Sita Ram Bazar,4,47
+1666,Chawri Bazar,4,47
+1667,Town Hall,4,47
+1668,Matia Mahal,4,47
+1669,Hauz Qazi,4,47
+1670,Roshan Pura,4,47
+1671,Bhagirath Palace,4,47
+1672,Fatehpuri,4,47
+1673,Lahore Gate,4,47
+1674,Khari Baoli,4,47
+1675,Ndrs Paharganj,4,47
+1676,Ndrs Ajmeri Gate,4,47
+1677,Arya Nagar,4,47
+1678,Ram Nagar Paharganj,4,47
+1679,Ginger Hotel,4,47
+1680,Motia Khan,4,47
+1681,Aram Bagh,4,47
+1682,Nabi Karim,4,47
+1683,Sadar Bazar,4,47
+1684,Pahari Dhiraj,4,47
+1685,Main Bazar,4,47
+1686,Chuna Mandi,4,47
+1687,Multani Dhanda,4,47
+1688,Deshbandhu Gupta Road,4,47
+1689,Karol Bagh,4,39
+1690,Karol Bagh Metro Station,4,39
+1691,Gaffar Market,4,39
+1692,Ajmal Khan Road,4,39
+1693,Ajmal Khan Park,4,39
+1694,Videocon Tower,4,39
+1695,Arya Samaj Market,4,39
+1696,Bedan Pura,4,39
+1697,Tibbia College,4,39
+1698,Jhandewalan Ext,4,39
+1699,Jhandewalan,4,39
+1700,Buddha Garden,4,39
+1701,Sarai Rohilla Railway Station,4,42
+1702,Dev Nagar,4,42
+1703,Anand Parvat,4,42
+1704,Punjabi Basti,4,42
+1705,Khalsa College,4,42
+1706,Liberty Cinema,4,42
+1707,New Rohtak Road,4,42
+1708,Filmistan,4,42
+1709,Kishan Ganj,4,42
+1710,Rajendra Nagar,4,39
+1711,Old Rajender Nagar,4,39
+1712,New Rajendra Nagar,4,39
+1713,Rajendra Palace,4,39
+1714,Siddhartha Hotel,4,39
+1715,Prasad Nagar,4,39
+1716,West Patel Nagar,4,39
+1717,East Patel Nagar,4,39
+1718,Pusa Institute,4,39
+1719,Patel Nagar,4,39
+1720,Ranjit Nagar_Patel Nagar,4,39
+1721,South Patel Nagar,4,39
+1722,Guru Arjun Nagar,4,39
+1723,Guru Nanak Nagar,4,39
+1724,Lodhi Garden,4,48
+1725,Cgo Complex,4,48
+1726,Jawahar Lal Nehru Stadium,4,48
+1727,Lodhi Estate,4,48
+1728,Pragati Vihar,4,48
+1729,Lodhi Colony,4,48
+1730,India Habitat Centre,4,48
+1731,India International Centre,4,48
+1732,Bk Dutt Colony,4,48
+1733,Jor Bagh,4,48
+1734,Bharti Nagar,4,48
+1735,Khan Market,4,48
+1736,Claridges Hotel,4,48
+1737,Jodhpur House,4,48
+1738,Gandhi Smriti,4,48
+1739,Prithivi Raj Road,4,48
+1740,Delhi Gymkhana Club,4,48
+1741,Delhi Golf Course,4,48
+1742,Delhi Race Club,4,48
+1743,Teen Murti Bhawan,4,48
+1744,Safdarjung Airport,4,48
+1745,Delhi Flying Club,4,48
+1746,Rajiv Gandhi Bhawan,4,48
+1747,Safdrjung Tomb,4,48
+1748,Taj Mahal Hotel,4,48
+1749,Mansingh Road,4,48
+1750,Vidyut Bhawan_Taj Mahal Hotel,4,48
+1751,Sujan Singh Park,4,48
+1752,Ambasdor Hotel_Taj Mahal Hotel,4,48
+1753,Rashtrapati Bhawan,4,48
+1754,Mughal Garden,4,48
+1755,Wellington Crescent,4,48
+1756,President Estate,4,48
+1757,Talkatora Stadium,4,48
+1758,North Avenue,4,48
+1759,11 Murti,4,48
+1760,South Avenue,4,48
+1761,Kamraj Lane,4,48
+1762,Sunehri Bagh,4,48
+1763,Dalhousie Road,4,48
+1764,Vayusena Head Office,4,48
+1765,Akbar Road,4,48
+1766,Chanakya Puri,4,48
+1767,Ashoka  Hotel,4,48
+1768,Samrat Hotel,4,48
+1769,Nehru Park,4,48
+1770,Shanti Path,4,48
+1771,"Panchsheel Marg, Chanakyapuri",4,48
+1772,National Rail Museum,4,48
+1773,Chanakya Cinema,4,48
+1774,Vinay Marg,4,48
+1775,Malcha Marg,4,48
+1776,Kautilya Marg,4,48
+1777,Nyay Marg,4,48
+1778,Bapu Dham,4,48
+1779,Sardar Patel Marg,4,48
+1780,Diplomatic Enclave,4,48
+1781,Taj Palace,4,48
+1782,Maurya Sheraton,4,48
+1783,Diplomat Hotel,4,48
+1784,Jesus And Mary College,4,48
+1785,Us  Embassy,4,48
+1786,Lady Harding Medical College,4,48
+1787,Kalawati Saran Child Hospital,4,48
+1788,Rk Ashram Metro Station,4,48
+1789,Panchkuian Marg,4,48
+1790,Shora Kothi,4,48
+1791,Basant Road,4,48
+1792,Noida Sector 14,4,66
+1793,Noida Sector 2,4,66
+1794,Noida Sector 1,4,66
+1795,Noida Sector 3,4,66
+1796,Noida Sector 15,4,66
+1797,Noida Sector 4,4,66
+1798,Noida Sector 16,4,66
+1799,Noida Sector 17,4,66
+1800,Bhel,4,66
+1801,Filmcity,4,66
+1802,Gol Chakkar,4,66
+1803,Gail,4,66
+1804,Rajnigandha Chowk,4,66
+1805,Super Casettes,4,66
+1806,Birla Institute,4,66
+1807,Noida Sector 5,4,66
+1808,Noida Sector 6,4,66
+1809,Noida Sector 7,4,66
+1810,Noida Sector 8,4,66
+1811,Noida Sector 9,4,66
+1812,Noida Sector 10,4,66
+1813,Noida Sector 11,4,66
+1814,Metro Hospital,4,66
+1815,Noida Sector 12,4,66
+1816,Rashtriya Sahara,4,66
+1817,Indra Gandhi Kala Centre,4,66
+1818,Noida Sector 22,4,66
+1819,Noida Sector 23,4,66
+1820,Noida Sector 24,4,66
+1821,Noida Stadium,4,66
+1822,Noida Sector 25,4,66
+1823,Noida Sector 21,4,66
+1824,Pvr Spice,4,66
+1825,Adobe,4,66
+1826,Reliance Energy,4,66
+1827,Prakash Hospital_Noida Sector 22,4,66
+1828,Kailash Hospital_Noida,4,66
+1829,Noida V Vgiri Nli S-24,4,66
+1830,Jalvayu Vihar_Noida Sector 22,4,66
+1831,Ntpc Township,4,66
+1832,National Labour Institute,4,66
+1833,Kali Bari Noida,4,66
+1834,Noida Sector 18,4,66
+1835,Noida Sector 19,4,66
+1836,Noida Sector 20,4,66
+1837,Noida Sector 17_Noida Sector 18,4,66
+1838,Noida Sector 26,4,66
+1839,Noida Sector 27,4,66
+1840,Raddison Hotel Noida,4,66
+1841,Great India Palace Mall,4,66
+1842,Adlabs Cinema,4,66
+1843,Wave Cinema,4,66
+1844,Centre Stage Mall,4,66
+1845,Atta Market,4,66
+1846,Atta Peer,4,66
+1847,Nirulas,4,66
+1848,Max Hospital Noida,4,66
+1849,Bhel Housing Colony,4,66
+1850,Sab Mall,4,66
+1851,Noida Sector 37,4,66
+1852,Noida Sector 30,4,66
+1853,Noida Sector 29,4,66
+1854,Noida Sector 28,4,66
+1855,Golfcourse Noida,4,66
+1856,Botanical Garden Metro Station,4,66
+1857,Godavri Complex,4,66
+1858,Shashi Chowk,4,66
+1859,Noida Golfcourse Metro Station,4,66
+1860,Arun Vihar Institute And Club,4,66
+1861,Chalera,4,66
+1862,Dps Noida,4,66
+1863,Harijan Basti,4,66
+1864,Bhardwaj Hospital,4,66
+1865,Noida Sector 44,4,66
+1866,Noida City Centre Metro Station,4,66
+1867,Noida Sector 31,4,66
+1868,Noida Sector 32,4,66
+1869,Noida Sector 36,4,66
+1870,Noida Sector 35,4,66
+1871,Morna,4,66
+1872,Noida Sector 34,4,66
+1873,Noida Sector 33,4,66
+1874,Nithari,4,66
+1875,Noida Sector 40,4,66
+1876,Noida Sector 41,4,66
+1877,Noida Sector 50,4,66
+1878,Noida Sector 39,4,66
+1879,Noida Sector 42,4,66
+1880,Noida Sector 49,4,66
+1881,Noida Sector 51,4,66
+1882,Aghapur,4,66
+1883,Baraula,4,66
+1884,Hoshiyarpur Village,4,66
+1885,Noida Sector 61,4,73
+1886,Noida Sector 71,4,73
+1887,Noida Sector 53,4,73
+1888,Noida Sector 52,4,73
+1889,Noida Sector 54,4,73
+1890,Mamura,4,73
+1891,Village Desai,4,73
+1892,Kanchenjunga Shopping Centre,4,73
+1893,Kanchenjunga Apts,4,73
+1894,Shoprix Mall,4,73
+1895,Noida Sector 55,4,73
+1896,Noida Sector 56,4,73
+1897,Noida Sector 57,4,73
+1898,Noida Sector 60,4,73
+1899,Noida Sector 58,4,73
+1900,Noida Sector 62,4,73
+1901,Rail Vihar Noida,4,73
+1902,Hcl Bpo,4,73
+1903,Ibm Tower,4,73
+1904,Flex Industries,4,73
+1905,Csc,4,73
+1906,Patni Computers,4,73
+1907,Tech Mahindra,4,73
+1908,Tcs Ltd,4,73
+1909,Jaypee Inst Of Inf Technology,4,73
+1910,Expo Centre,4,73
+1911,Fortis Hospital Noida,4,73
+1912,Noida Sector 59,4,73
+1913,Exl,4,73
+1914,Dataworld Information Centre,4,73
+1915,Tot Mall,4,73
+1916,Noida Sector 110,4,72
+1917,Noida Sector 105,4,72
+1918,Noida Sector 108,4,72
+1919,Noida Sector 82,4,72
+1920,Swarnim Vihar,4,72
+1921,Unitech Grande,4,72
+1922,Kendriya Vihar_Noida,4,72
+1923,Windsor It Park,4,72
+1924,Amity University,4,72
+1925,Bhangel,4,72
+1926,Charmswood Village,4,64
+1927,Dayal Bagh Colony,4,64
+1928,Navdurga Vihar,4,64
+1929,Eros Garden,4,64
+1930,Sterling Apts,4,64
+1931,Bevedre Tower,4,64
+1932,Mayfair Tower,4,64
+1933,Surajkund,4,54
+1934,Raj Hans Hotel,4,54
+1935,Hill View Hotel,4,54
+1936,Claridges Hotel Fbd,4,54
+1937,Faridabad Sector 37,4,64
+1938,Faridabad Sector 38,4,64
+1939,Faridabad Sector 27D,4,64
+1940,Faridabad Sector 36,4,64
+1941,Saffron Heights Hotel,4,64
+1942,Crown Interiorz Hotel,4,64
+1943,Usha Electronics,4,64
+1944,Sarai Chowk,4,64
+1945,Nhpc Chowk,4,64
+1946,Nhpc Colony,4,64
+1947,Faridabad Sector 27C,4,64
+1948,Faridabad Sector 34,4,64
+1949,Faridabad Sector 35,4,64
+1950,Faridabad Sector 42,4,64
+1951,Faridabad Sector 41,4,64
+1952,Ashoka Enclave,4,64
+1953,Indraprastha Colony,4,64
+1954,Rajeev Nagar Fbd,4,64
+1955,Dlf Industrial Area Fbd,4,64
+1956,Dayal Basti,4,64
+1957,Faridabad Sector 43,4,64
+1958,Faridabad Sector 44,4,64
+1959,Faridabad Sector 45,4,64
+1960,Faridabad Sector 46,4,64
+1961,Faridabad Sector 32,4,64
+1962,Faridabad Sector 33,4,64
+1963,Rail Vihar_Badhkal,4,64
+1964,Faridabad Sector 30,4,64
+1965,Faridabad Sector 31,4,64
+1966,Green Fields Colony,4,64
+1967,Hbh Colony,4,64
+1968,Indrapatha Colony,4,64
+1969,Springfield Colony,4,64
+1970,Rajendra Colony,4,64
+1971,Godrej,4,64
+1972,Haveels Chowk,4,64
+1973,Maewala Maharajpur,4,64
+1974,Badhkal Chowk,4,64
+1975,Faridabad Sector 28,4,64
+1976,Faridabad Sector 29,4,64
+1977,Rajiv Gandhi Chowk_Faridabad,4,65
+1978,Faridabad Sector 21C,4,65
+1979,Faridabad Sector 27A,4,65
+1980,Friends Colony Fbd,4,65
+1981,Faridabad Sector 21A,4,64
+1982,Faridabad Sector 21B,4,65
+1983,Faridabad Sector 21D,4,65
+1984,Shastri Colony,4,65
+1985,Gopi Colony,4,65
+1986,Fatehpur Chandela,4,65
+1987,Baba Nagar,4,65
+1988,Faridabad Sector 17,4,65
+1989,Faridabad Sector 16A,4,64
+1990,Faridabad Sector 16,4,64
+1991,Faridabad Sector 19,4,65
+1992,Faridabad Sector 18,4,65
+1993,New Industrial Township,4,65
+1994,New Industrial Township 1,4,65
+1995,New Industrial Township 2,4,65
+1996,New Industrial Township 3,4,65
+1997,Ew Industrial Township 4,4,65
+1998,New Industrial Township 5,4,65
+1999,Pvr,4,65
+2000,Dabua Colony,4,65
+2001,Gandhi Chowk -Badhkal,4,65
+2002,Sanjay Colony_Faridabad,4,65
+2003,Canal Colony,4,65
+2004,Vishnu Place,4,65
+2005,Arjonda Chowk,4,65
+2006,Faridabad Sector 11C,4,64
+2007,Faridabad Sector 12,4,64
+2008,Faridabad Sector 14,4,64
+2009,Faridabad Sector 13,4,64
+2010,Faridabad Sector 15A,4,64
+2011,Faridabad Sector 10,4,64
+2012,Faridabad Sector 9,4,64
+2013,Faridabad Sector 49,4,64
+2014,Nahar Singh Cricket Stadium,4,64
+2015,Indra Nagar,4,64
+2016,Aravali Golf Course,4,64
+2017,New Janta Colony,4,64
+2018,Bata Chowk,4,64
+2019,Old Faridabad,4,64
+2020,Faridabad New Town,4,64
+2021,Faridabad Sector 5,4,65
+2022,Faridabad Sector 6,4,65
+2023,Faridabad Sector 7,4,65
+2024,Faridabad Sector 22,4,65
+2025,Faridabad Sector 23,4,65
+2026,Feroz Gandhi Colony_Ymca,4,65
+2027,Faridabad Sector 24,4,65
+2028,Faridabad Sector 8,4,65
+2029,Faridabad Sector 11,4,65
+2030,Azad Colony,4,65
+2031,Sanjay Colony_Ymca,4,65
+2032,Faridabad Sector 4,4,65
+2033,Faridabad Sector 3,4,65
+2034,Saran,4,65
+2035,Yamha Motor India,4,65
+2036,Ymca Chowk,4,65
+2037,Sanjay Memorial Estate,4,65
+2038,Faridabad 60,4,65
+2039,Faridabad 59,4,65
+2040,Faridabad 58,4,65
+2041,Faridabad 56,4,65
+2043,Faridabad 25,4,65
+2044,Faridabad 61,4,65
+2045,Faridabad Bus Terminal,4,65
+2046,Mukesh Colony,4,65
+2047,Natthu Colony,4,65
+2048,Ballabgarh,4,65
+2049,Syam Colony,4,65
+2050,Aiims,4,50
+2051,Safdarjung Hospital,4,50
+2052,Kidwai Nagar East,4,50
+2053,Kidwai Nagar West,4,50
+2054,Aiims Hostel,4,50
+2055,Ansari Nagar,4,50
+2056,Dilli Haat,4,50
+2057,Ina Market,4,50
+2058,Gautam Nagar,4,50
+2059,Kamla Nehru College,4,50
+2060,Ayurvigyan Nagar,4,50
+2061,Hudco Place_Gautam Nagar,4,50
+2062,Anand Lok,4,50
+2063,Neeti Bagh,4,50
+2064,Hauz Khas,4,53
+2065,Padmini Enclave,4,53
+2066,Hauz Khas Village,4,53
+2067,Siri Fort_Hauz Khas,4,53
+2068,Aurobindo Marg,4,53
+2069,Aurobindo Market,4,53
+2070,Yusuf Sarai,4,53
+2071,Green Park,4,53
+2072,Green Park Ext,4,53
+2073,Hauz Rani,4,53
+2074,Uday Park,4,53
+2075,"Panchsheel Park, Rajendra Nagar, Ghaziabad,",4,69
+2076,Panchsheel Park North,4,69
+2077,Panchsheel Park South,4,69
+2078,Soami Nagar,4,50
+2079,Panchsheel Enclave,4,50
+2080,Sheikh Sarai Phase 1,4,50
+2081,Sheikh Sarai Phase 2,4,50
+2082,Chirag Delhi,4,50
+2083,Chirag Delhi Village,4,50
+2084,Sheikh Sarai Village,4,50
+2085,Malviya Nagar,4,52
+2086,Khirki Extension,4,52
+2087,Khirki Village,4,52
+2088,Mmtc,4,52
+2089,Shivalik,4,52
+2090,Saket,4,54
+2091,Press Enclave,4,54
+2092,Pushp Vihar,4,54
+2093,Max Hospital SAKET,4,54
+2094,Lado Sarai,4,54
+2095,Lado Sarai-Garden Of Five Senses,4,54
+2096,Neb Sarai,4,54
+2097,Paryavaran Complex,4,54
+2098,Maidangarhi,4,54
+2099,Neb Sarai Extn,4,54
+2100,Adhchini,4,52
+2101,Qutab Enclave,4,52
+2102,Qutab Institutional Area,4,52
+2103,Katwaria Sarai,4,52
+2104,Sita Ram Bharti Hospital,4,52
+2105,Jia Sarai,4,52
+2106,Aruna Asaf Ali Marg,4,52
+2107,Ncert,4,52
+2108,Qutub Hotel,4,52
+2109,Qutub Minar,4,53
+2110,Sanjay Van,4,53
+2111,Jain Dada Bari,4,53
+2112,Chattarpur Mandir,4,54
+2113,Ladha Sarai,4,54
+2114,Sultan Pur,4,55
+2115,New Manglapuri,4,54
+2116,Satbari,4,54
+2117,Tivoli Garden,4,54
+2118,Rajpur Colony,4,54
+2119,Chattarpur Extension,4,54
+2120,Aya  Nagar,4,56
+2121,Ghitorni,4,56
+2122,John Pur,4,56
+2123,Anandgram,4,56
+2124,Claremont Hotel,4,56
+2125,Sainik Farm,4,54
+2126,Khanpur,4,54
+2127,Khanpur Village,4,54
+2128,Deoli,4,54
+2129,"Tigri, New Delhi, Delhi",4,54
+2130,"Sangam Vihar, Devli, New Delhi",4,54
+2131,Tughlakabad,4,52
+2132,Hamdard Nagar,4,52
+2133,Madangir,4,52
+2134,Madangir Village,4,52
+2135,Dakshinpuri,4,52
+2136,Batra Hospital,4,52
+2137,Dr Ambedkar Nagar,4,52
+2138,Badarpur,4,51
+2139,Lal Kuan,4,51
+2140,Pul Prehladpur,4,51
+2141,Tajpur Village,4,51
+2142,Molarband,4,51
+2143,Molarband Extension,4,51
+2144,Mohan Co-Operative,4,51
+2145,Ntpc Badarpur,4,51
+2146,Sarita Vihar,4,51
+2147,Apollo Hospital,4,51
+2148,Shaheen Bagh,4,51
+2149,Kalindi Kunj,4,51
+2150,Jasola Vihar,4,51
+2151,Madanpur Khadar,4,51
+2152,Abufazal Enclave,4,51
+2153,Zakir Bagh,4,51
+2154,Jamia Millia Islamia,4,51
+2155,Batla House,4,51
+2156,Zakir Nagar,4,51
+2157,Jauhar Bagh,4,51
+2158,Okhla Industrial Area Phase 1,4,51
+2159,Okhla Industrial Area Phase 2,4,51
+2160,Ishwar Nagar,4,51
+2161,Sanjay Colony_Okhla,4,51
+2162,Okhla Railway Station,4,51
+2163,New Friends Colony,4,51
+2164,Friends Colony East,4,51
+2165,Crown Plaza Nfc,4,51
+2166,Sukhdev Vihar,4,51
+2167,Sarai Julena,4,51
+2168,Taimoor Nagar,4,51
+2169,Kalkaji,4,52
+2170,Kalkaji Extension,4,52
+2171,Govindpuri,4,52
+2172,Giri Nagar,4,52
+2173,Alaknanda,4,52
+2174,Deshbandhu College,4,52
+2175,Gupta Apartments,4,52
+2176,Balaji Estate,4,52
+2177,Kalkaji Mandir,4,52
+2178,"Tara Apartment, Alaknanda",4,52
+2179,Cr Park,4,52
+2180,Greater Kailash 2,4,52
+2181,Greater Kailash 3,4,52
+2182,Greater Kailash Enclave 2,4,52
+2183,Savitri Cineplex,4,52
+2184,Nehru Place,4,50
+2185,Nehru Enclave,4,50
+2186,Paras Cinema,4,50
+2187,Lotus Temple,4,50
+2188,Pamposh Enclave,4,52
+2189,Chirag Enclave,4,52
+2190,Hemkunt Colony,4,52
+2191,Greater Kailash Enclave 1,4,50
+2192,East Of Kailash,4,50
+2193,Amrit Puri,4,50
+2194,Sapna Cinema,4,50
+2195,Iscon Temple,4,50
+2196,Garhi,4,50
+2197,Sant Nagar,4,50
+2198,Kailsah Hill,4,50
+2199,Mount Kailash,4,50
+2200,Greater Kailash 1,4,52
+2201,Kailash Colony,4,52
+2202,Zamrud Pur,4,52
+2203,Lady Sri Ram College,4,52
+2204,Ashram,4,50
+2205,Bhogal,4,50
+2206,Siddhartha Enclave,4,50
+2207,Kilokri,4,50
+2208,Hari Nagar Ashram,4,50
+2209,Jiwan Nagar,4,50
+2210,Bhagwan Nagar,4,50
+2211,Siddhartha Nagar/Ext,4,50
+2212,Nehru Nagar_Ashram,4,50
+2213,Maharani Bagh,4,50
+2214,Mahasriniwaspuri,4,50
+2215,Mahakalindi Colony,4,50
+2216,Mahaparmanand Estate,4,50
+2217,Lajpat Nagar 1,4,50
+2218,Lajpat Nagar 2,4,50
+2219,Lajpat Nagar 3,4,50
+2220,Vinoba Puri,4,69
+2221,Lajpat Nagar Central Market,4,50
+2222,Dayanand Colony,4,62
+2223,Lajpat Nagar 4,4,50
+2224,Vikram Vihar,4,62
+2225,Amar Colony_Gurgaon,4,62
+2226,Nirmalpur Colony,4,62
+2227,Andrews Ganj,4,50
+2228,Moolchand Hospital,4,50
+2229,Hudco Place_Andrews Ganj,4,50
+2230,Ansal Plaza_Andrews,4,50
+2231,Andrews Ganj Extension,4,50
+2232,Sadiq Nagar,4,50
+2233,Safdarjung Enclave,4,53
+2234,Arjun Nagar,4,53
+2235,Krishna Nagar Safdarjung,4,53
+2236,Safdar Jung Development Area,4,53
+2237,Rose Garden_Safdarjung Enclave,4,53
+2238,Nauroji Nagar,4,53
+2239,Deer Park,4,53
+2240,Bhikaji Cama Palace,4,53
+2241,Hyatt Hotel,4,53
+2242,Mohammadpur,4,53
+2243,Sarojini Nagar,4,53
+2244,Rk Puram Sector 1,4,53
+2245,Rk Puram Sector 2,4,53
+2246,Rk Puram Sector 3,4,53
+2247,Rk Puram Sector 4,4,53
+2248,Rk Puram Sector 5,4,53
+2249,Rk Puram Sector 6,4,53
+2250,Rk Puram Sector 7,4,53
+2251,Rk Puram Sector 8,4,53
+2252,Rk Puram Sector 9,4,53
+2253,Rk Puram Sector 10,4,53
+2254,Rk Puram Sector 11,4,53
+2255,Rk Puram Sector 12,4,53
+2256,Som Vihar,4,53
+2257,Moti Bagh,4,49
+2258,Satya Niketan,4,49
+2259,Rao Tula Ram Marg,4,49
+2260,Westend,4,49
+2261,Anand Niketan,4,49
+2262,Shanti Niketan,4,49
+2263,Moti Bagh North,4,49
+2264,Moti Bagh South,4,49
+2265,Moti Bagh Gurudwara,4,49
+2266,Nanakpura,4,49
+2267,Iit Campus,4,53
+2268,Iit -Aravali Hostel,4,53
+2269,Sarvapriya Vihar,4,53
+2270,Essex Farms,4,53
+2271,Iit Hostel,4,53
+2272,Kalu Sarai,4,53
+2273,Azad Apartments,4,53
+2274,Munirka Enclave,4,53
+2275,Munirka Dda Flats,4,53
+2276,Munirka Village,4,53
+2277,Munirka Vihar,4,53
+2278,Vasant Vihar,4,53
+2279,Basant Lok,4,53
+2280,Pvr Priya,4,53
+2281,Vasant Vihar Club,4,53
+2282,Jnu Campus,4,53
+2283,Ber Sarai,4,53
+2284,Vasant Enclave,4,27
+2285,Basant Gaon,4,27
+2286,Subroto Park,4,27
+2287,Vasant Continental Hotel,4,27
+2288,R And R Hospital,4,27
+2289,Anuj Vihar,4,36
+2290,Vasant Kunj Block A,4,53
+2291,Vasant Kunj Block B,4,53
+2292,Vasant Kunj Block C,4,53
+2293,Vasant Kunj Block D,4,53
+2294,Masudpur,4,53
+2295,Grand Hyatt,4,53
+2296,Rang Puri,4,53
+2297,Mahipal Pur,4,53
+2298,Radisson,4,53
+2299,Rajokri,4,53
+2300,Nelson Mandela Marg,4,53
+2301,Indian Spinal Injuries,4,53
+2302,Defence Colony,4,50
+2303,Kotla Mubarakpur,4,50
+2304,Kasturba Nagar,4,50
+2305,Jungpura,4,50
+2306,Sewa Nagar,4,50
+2307,South Ex-1,4,50
+2308,South Ex-2,4,50
+2309,Wazir Nagar,4,50
+2310,Vaishali,4,70
+2311,Ambedkar Park,4,70
+2312,Neelpadam Complex,4,70
+2313,Maharaja Agarasen Chowk,4,70
+2314,Amrapali Apts,4,70
+2315,Vaishali Ext,4,70
+2316,"Indirapuram, Ghaziabad",4,70
+2317,Ashiana Greens,4,70
+2318,Shipra Suncity,4,70
+2319,Kaushambhi,4,70
+2320,Dabur,4,70
+2321,Jaipuria Plaza,4,70
+2322,Windsor Park,4,70
+2323,Aditya Mega City,4,70
+2324,Shipra Riveria,4,70
+2325,Gyan Khand,4,70
+2326,Niti Khand,4,70
+2327,Nyay Khand,4,70
+2328,Shakti Khand,4,70
+2329,Fun Do World,4,70
+2330,Raddison Ghz,4,70
+2331,Ramprastha,4,70
+2332,Amrit Cinema,4,70
+2333,Surya Nagar,4,70
+2334,vasundhra_ghaziabad,4,70
+2335,Pir Colony,4,70
+2336,Sahibabad Indl Estate,4,70
+2337,Sahibabad,4,70
+2338,Jhandapur,4,70
+2339,Paharpur Inds,4,70
+2340,Brij Vihar,4,70
+2341,Shyam Park,4,70
+2342,"Rajendra Nagar, Ghaziabad",4,69
+2343,Rajendra Nagar_Vasundhara,4,70
+2344,Shalimar Garden,4,44
+2345,Brindawan Garden,4,44
+2346,Rajendra Nagar_Shalimar Garden,4,44
+2347,Rajnigandha Apts,4,44
+2348,Ganeshpura,4,44
+2349,Janak Puri_Ghaziabad,4,44
+2350,Dr Ram Manaohar Lohia Park,4,44
+2351,Lajpat Nagar,4,50
+2352,Mohan Nagar,4,44
+2353,Rajiv Colony,4,44
+2354,Loni Inds Area,4,44
+2355,Pyarelal Colony,4,44
+2356,Mohan Meakins,4,70
+2357,Dcm Daewoo Motors,4,70
+2358,Payal Kunj,4,70
+2359,Anand Ind Estate,4,70
+2360,Arthala,4,70
+2361,Sanjay Colony,4,70
+2362,Olive Country,4,70
+2363,Rail Vihar_Mohan Meakin Industrial Estate,4,70
+2364,Patel Nagar_Ghaziabad,4,71
+2365,Ghaziabad Old Bus Stand,4,71
+2366,Lohia Nagar,4,71
+2367,Merut Road Inds Area,4,50
+2368,P And T Colony,4,50
+2369,District Court,4,50
+2370,Nehru Nagar,4,50
+2371,Institute Of Management Technology,4,50
+2372,New Ghaziabad,4,71
+2373,Ghanta Ghar,4,50
+2374,Dayanand Nagar,4,50
+2375,Gandhi Nagar_Nehru Nagar,4,50
+2376,Nasirpur,4,50
+2377,Ashok Nagar_Nehru Nagar,4,50
+2378,Kallupura,4,50
+2379,Kavi Nagar,4,71
+2380,Kavi Nagar Inds Area,4,71
+2381,Shastri Nagar Ghz,4,71
+2382,Nehru Nagar - Ghaziabad,4,71
+2383,Razapur,4,71
+2384,Mahendra Enclave,4,71
+2385,Govinpuram,4,71
+2386,Gda Colony,4,71
+2387,Raispur,4,71
+2388,Sanjay Nagar,4,71
+2389,Ansals Chiranjiv Vihar,4,71
+2390,Pandav Nagat Inds Area,4,71
+2391,Baghwali Colony,4,71
+2392,Ansal Avantika,4,71
+2393,Dhanwantri Puram,4,71
+2394,Lal Kuan Industrial Area,4,64
+2395,Daulat Pura,4,64
+2396,Bulandshahr Road Inds Area,4,64
+2397,Ghaziabad Ispat Ltd,4,71
+2398,Shyamaprasad Mukerjee Park,4,64
+2399,Loha Mandi Ghz,4,64
+2400,Jai Praksh Nagar,4,64
+2401,Vivekanand Nagar,4,64
+2402,Amrit Nagar,4,64
+2403,Moheman Sarai,4,64
+2404,Pratap Vihar,4,70
+2405,Mirzapur,4,70
+2406,New Vijay Nagar Colony,4,70
+2407,Sarvodaya Nagar,4,70
+2408,Vijay Nagar_Pratap Vihar,4,70
+2409,Mawai,4,70
+2410,Advocate Colony,4,70
+2411,Bhur Bharat Nagar,4,70
+2412,Gnoida Daewoo Motors,4,74
+2413,Gnoida Yamaha Motors,4,74
+2414,Gnoida Moser Baer,4,74
+2415,Gnoida Indoplast,4,74
+2416,Dadri Gnoida Road,4,74
+2417,Crfa52756 Gnoida Lg Electronics,4,74
+2418,Crfa52756 Gnoida Inox,4,74
+2419,Gnoida Pari Chowk,4,74
+2420,Taj Expressway,4,74
+2421,Gnoida Omaxe Nri City,4,74
+2422,Gnoida Omax Shopping Mall,4,74
+2423,Nimt Hospital,4,74
+2424,Ansal Plaza Gnoida,4,74
+2425,Ansal Golf Link,4,74
+2426,Gnoida Sng Plaza,4,74
+2427,Delhi Scottish School,4,74
+2428,Greater Noida Stadium,4,74
+2429,Gnoida Jaypee Sports Complex,4,74
+2430,Metro Delhi International School,4,74
+2431,Gnoida Golf Course,4,74
+2432,Gnoida Eldeco Green Meadows,4,74
+2433,Gnoida Eldeco Residency Green,4,74
+2434,Ymca Gnoida,4,74
+2435,Gnoida Sector Alpha,4,74
+2436,Shopping Complex,4,74
+2437,Parsavnath Flats,4,74
+2438,Naveen Hospital,4,74
+2439,Astha Hospital,4,74
+2440,Graduate School Of Business Admn,4,74
+2441,Noida Power Corp Ltd,4,74
+2442,City Park Gnoida,4,74
+2443,Heritage Club Gnoida,4,74
+2444,Electricity Employees Housing Society,4,74
+2445,Jp International School Of Engineering,4,74
+2446,Army Welfare Housing Society,4,74
+2447,Today Housing Society,4,74
+2448,Black Gold Apts,4,74
+2449,Sector Omega Sub Station,4,74
+2450,Parsavnath Estate,4,74
+2451,Prakash Hospital_Gnoida Sector Omega,4,74
+2452,Parsavnath Panorama,4,74
+2453,Pie Shopping Store,4,74
+2454,Beta Shopping Complex,4,74
+2455,Ryan International Group Of Schools,4,74
+2456,Kasna Police Station,4,74
+2457,Sigma Apartments,4,74
+2458,Cactus Park,4,74
+2459,Tata Officers Society,4,74
+2460,Mother Dairy Beta-2,4,74
+2461,Somervile School,4,74
+2462,Kailash Hospital,4,74
+2463,Iec College Of Engg And Tech,4,74
+2464,Priyadarshini College Of Compuer Science,4,74
+2465,Cambridge School,4,74
+2466,Ishan Institute Of Management,4,74
+2467,Bakson Homeopathic,4,74
+2468,Aster Public School,4,74
+2469,Omax Connaught Place Gnoida,4,74
+2470,Gnoida Sector Delta,4,74
+2471,Labour Chowk,4,74
+2472,Palm Park,4,74
+2473,India Expo Mart Circle,4,74
+2474,Gymkhana Club Gnoida,4,74
+2475,Innovative Institute,4,74
+2476,Skyline Inst Of Tech,4,74
+2477,Lloyds,4,74
+2478,Mangalmay,4,74
+2479,Galgotia Group Of Institution,4,74
+2480,Gnoida Wipro,4,74
+2481,Purvanchnal Silver City,4,74
+2482,Parsavnath Privellege,4,74
+2483,Unitech Verve,4,74
+2484,Unitech Habitat,4,74
+2485,Unitech Cascade,4,74
+2486,Uniworld City Gnoida,4,74
+2487,Unitech Horizon,4,74
+2488,Plumeria Garden,4,74
+2489,Its Engineering College,4,74
+2490,Hindustan Institute Of Technology,4,74
+2491,Iit Roorkee Campus,4,74
+2492,Sharda Hospital Gnoida,4,74
+2493,United Institute,4,74
+2494,Shalimar Bagh,4,42
+2495,Rohini Sector 28,4,40
+2496,Hudson Lines,4,42
+2497,Rajiv Gandhi Cancer Hospital,4,40
+2498,Pulbangash,4,47
+2499,Sant Nagar ( Burari),4,41
+2500,New Gupta Colony,4,42
+2501,Old Gupta Colony,4,42
+2502,Gurgaon Sector  29,4,62
+2503,Gurgaon Sector  49,4,61
+2504,Gurgaon Sector 18,4,59
+2505,Metropolitan Mall,4,52
+2506,Gurgaon Sector 7,4,62
+2507,Sohna Road,4,61
+2508,Civil Lines Gurgaon,4,62
+2509,Essel Tower,4,60
+2510,"Medicity Hospital,Sector 38, Gurgaon",4,61
+2511,Max Hospital Gurgaon,4,60
+2512,"DLF Grand Mall, Gurgaon, Delhi",4,60
+2513,Select City Walk,4,54
+2514,Mehrauli,4,53
+2515,Shankar Vihar,4,27
+2516,Emporio Mall,4,53
+2517,Sant Nagar ( East Of Kailash ),4,50
+2518,Dhaula Kuan,4,36
+2519,Asian Games Village Complex,4,50
+2520,Khel Gaon,4,50
+2521,Ansal Plaza_Siri Fort,4,50
+2522,Gulmohar Park,4,50
+2523,Gulmohar Enclave,4,50
+2524,South Campus,4,50
+2525,Geetanjali Enclave,4,54
+2526,Lakshmibai Nagar,4,50
+2527,Ina Colony,4,50
+2528,Shahpur Jat,4,50
+2529,Siri Fort,4,50
+2530,"Jamia Nagar, Okhla",4,51
+2531,"Sri Niwaspuri, New Delhi",4,50
+2532,"Sarvodaya Enclave, New Delhi",4,52
+2533,Siddharth Extension,4,51
+2534,Netaji Nagar,4,49
+2535,Saidulajab,4,53
+2536,Panchsheel Park(S),4,52
+2537,The Park,4,48
+2538,Metropolitan Hotel Nikko,4,48
+2539,"Sir Ganga Ram Hospital, Old Rajender Nagar",4,39
+2540,Lodhi Road,4,50
+2541,Roshanara Road,4,39
+2542,New Delhi Railway Station,4,47
+2543,Janakpuri(W),4,32
+2544,NIT Faridabad,4,64
+2545,Sector 127 Noida,4,72
+2546,"Indrapuram, Ghaziabad",4,70
+2547,"Vikas Marg, Swasthya Vihar, New Delhi",4,45
+2548,Brar Square,4,38
+2549,Gagan Vihar,4,45
+2550,Parliament Street,4,48
+2551,Okhla Industrial Area Phase 3,4,51
+2552,Dayal Chowk,4,39
+2553,Guru Dronacharya Metro,4,60
+2554,Echs Polyclinic,4,59
+2555,Talwar Medical Centre,4,52
+2556,Khandelwal Clinic,4,52
+2557,Nandi Vithi Road,4,52
+2558,Ana International,4,53
+2559,Select City Walk Mall,4,54
+2560,FORTIS HOSPITAL VASANT KUNJ,4,53
+2561,Meera Bagh Bus Stop,4,37
+2562,Ashok Nagar_Tilak Nagar,4,32
+2563,Nirvana Country,4,61
+2564,Noida Sector 70,4,73
+2565,Noida Sector 72,4,73
+2566,Noida Sector 73,4,73
+2567,Noida Sector 64,4,73
+2568,Noida Sector 63,4,73
+2569,Noida Sector 65,4,73
+2570,Noida Sector 66,4,73
+2571,Noida Sector 67,4,73
+2572,Noida Sector 68,4,73
+2573,Noida Sector 69,4,73
+2635,Dera More,4,54
+2636,Gurgaon Sector 15,4,62
+2637,Noida Sector 93,4,72
+2638,"MG Road Metro Station, Mehrauli Gurgaon",4,60
+2639,Noida Sector 47,4,66
+2640,Noida Sector 48,4,66
+2641,Noida Sector 125,4,72
+2642,Noida Sector 135,4,72
+2643,"Rampura Industrial Area, Tri Nagar",4,42
+2644,"Mandawali, New Delhi",4,45
+2645,Noida Sector 142,4,72
+2646,"Knowledge Park I, Greater Noida",4,74
+2647,"Knowledge Park II, Greater Noida",4,74
+2648,"Knowledge Park III, Greater Noida",4,74
+2649,"Knowledge Park IV, Greater Noida",4,74
+2650,"Knowledge Park V, Greater Noida",4,74
+2651,"MG Road, Gurgaon",4,60
+2652,"MGF Metropolitian Mall, Saket District Centre",4,52
+2653,"HUDA City Cente, Sector 29, Gurgaon",4,60
+2654,Bahadur Shah Zafar Marg New Delhi,4,47
+2655,mandi village new delhi,4,55
+2656,the pataudi palace gurgaon,4,24
+2657,"Saidulabad, Sainik Farm, New Delhi",4,53
+2658,"Tigri, Ghaziabad",4,73
+2659,Faridabad sector 48,4,64
+2660,Dwarka sector 16A,4,28
+2661,Dwarka sector 16B,4,28
+2662,Ghaziabad railway station,4,70
+2663,crossing republik ghaziabad,4,73
+2682,"Army institute of management and technology, Great",4,74
+2683,Noida sector 126,4,72
+2684,noida sector 122,4,72
+3198,Ambience Mall - Vasant Kunj,4,24
+3207,Faridabad sector 86,4,65
+3215,Amar Colony_Southdelhi,4,50
